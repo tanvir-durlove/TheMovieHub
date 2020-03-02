@@ -21,7 +21,7 @@ android {
     buildToolsVersion '28.0.3'
 
     defaultConfig {
-        applicationId "com.esoxjem.movieguide"
+        applicationId "com.arbitrium.moviehub"
         minSdkVersion 21
         targetSdkVersion 29
         versionCode 1
