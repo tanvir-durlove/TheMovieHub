@@ -4,7 +4,7 @@
       tools:context=".listing.MoviesListingActivity">
     <item
         android:id="@+id/action_sort"
-        android:icon="@drawable/ic_sort"
+        android:icon="@drawable/ic_short_text_black_24dp"
         android:orderInCategory="100"
         android:title="@string/action_filter"
         app:showAsAction="always"/>
@@ -12,7 +12,7 @@
     <item
         android:id="@+id/action_search"
         android:title="@string/action_search"
-        android:icon="@android:drawable/ic_menu_search"
+        android:icon="@drawable/ic_search_blue_24dp"
         app:showAsAction="ifRoom|collapseActionView"
         app:actionViewClass="androidx.appcompat.widget.SearchView" />
 
