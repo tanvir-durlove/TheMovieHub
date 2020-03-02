@@ -1,15 +1,11 @@
-# MovieGuide
-### 🚧 Refactoring in progress 👷‍♀️⛏👷🔧️👷🔧 🚧
-
-- Comments and new issues are welcome. 👍 
-- Currently not accepting external PRs that touch on the app's architecture and features. 🛑 
-
-[![Build Status](https://app.bitrise.io/app/e74daa103a89eb3f/status.svg?token=cNHddSJnkUmE_p7ZA9eruQ&branch=master)](https://app.bitrise.io/app/e74daa103a89eb3f)
-
+# The Movie Hub
 Android app that lists popular/highest-rated movies, shows trailers and reviews.
 
-This app showcases the MVP pattern, RxJava, Dagger 2 and Uncle Bob Martin's Clean Architecture approach.
-Optimized for tablets.
+This app showcases the 
+* MVP pattern
+* RxJava
+* Dagger 2 and 
+* Uncle Bob Martin's Clean Architecture approach.
 
 ### Building the app
 1. Open `local.properties` in the root directory.
