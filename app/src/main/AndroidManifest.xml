@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest
-    package="com.arbitrium.moviehub"
-    xmlns:android="http://schemas.android.com/apk/res/android">
-    <uses-permission android:name="android.permission.INTERNET"/>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.arbitrium.moviehub">
+
+    <uses-permission android:name="android.permission.INTERNET" />
 
     <application
-        android:name="com.arbitrium.moviehub.BaseApplication"
+        android:name=".BaseApplication"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:theme="@style/AppTheme">
         <activity
-            android:name="com.arbitrium.moviehub.listing.MoviesListingActivity"
+            android:name=".listing.MoviesListingActivity"
             android:launchMode="singleTask">
             <intent-filter>
-                <action android:name="android.intent.action.MAIN"/>
+                <action android:name="android.intent.action.MAIN" />
 
-                <category android:name="android.intent.category.LAUNCHER"/>
+                <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
         <activity
-            android:name="com.arbitrium.moviehub.details.MovieDetailsActivity"
-            android:parentActivityName="com.arbitrium.moviehub.listing.MoviesListingActivity"
+            android:name=".details.MovieDetailsActivity"
+            android:parentActivityName=".listing.MoviesListingActivity"
             android:theme="@style/AppTheme">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.arbitrium.moviehub.listing.MoviesListingActivity"/>
+                android:value="com.arbitrium.moviehub.listing.MoviesListingActivity" />
         </activity>
     </application>
 

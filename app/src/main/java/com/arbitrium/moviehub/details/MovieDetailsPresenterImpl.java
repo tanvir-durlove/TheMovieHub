@@ -13,7 +13,7 @@ import io.reactivex.disposables.Disposable;
 import io.reactivex.schedulers.Schedulers;
 
 /**
- * @author arun
+ * @author Tanvir Durlove
  */
 class MovieDetailsPresenterImpl implements MovieDetailsPresenter {
     private MovieDetailsView view;

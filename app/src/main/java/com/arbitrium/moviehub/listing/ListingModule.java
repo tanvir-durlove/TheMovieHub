@@ -8,8 +8,8 @@ import dagger.Module;
 import dagger.Provides;
 
 /**
- * @author pulkitkumar
- * @author arunsasidharan
+ *
+ * @author Tanvir Durlove
  */
 @Module
 public class ListingModule {

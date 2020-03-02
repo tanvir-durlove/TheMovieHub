@@ -23,7 +23,7 @@ import butterknife.ButterKnife;
 import butterknife.Unbinder;
 
 /**
- * @author arun
+ * @author Tanvir Durlove
  */
 public class SortingDialogFragment extends DialogFragment implements SortingDialogView, RadioGroup.OnCheckedChangeListener {
     @Inject

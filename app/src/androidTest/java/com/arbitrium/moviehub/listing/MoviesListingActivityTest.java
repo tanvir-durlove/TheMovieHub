@@ -23,7 +23,7 @@ import static androidx.test.espresso.matcher.ViewMatchers.withId;
 import static androidx.test.espresso.matcher.ViewMatchers.withText;
 
 /**
- * @author arunsasidharan
+ * @author Tanvir Durlove
  */
 @RunWith(AndroidJUnit4.class)
 @LargeTest

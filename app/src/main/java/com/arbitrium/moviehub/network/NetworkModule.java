@@ -17,8 +17,8 @@ import retrofit2.adapter.rxjava2.RxJava2CallAdapterFactory;
 import retrofit2.converter.moshi.MoshiConverterFactory;
 
 /**
- * @author arunsasidharan
- * @author pulkitkumar
+ * @author Tanvir Durlove
+ *
  */
 @Module
 public class NetworkModule {

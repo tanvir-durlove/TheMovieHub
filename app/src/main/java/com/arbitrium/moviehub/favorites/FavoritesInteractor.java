@@ -5,7 +5,7 @@ import com.arbitrium.moviehub.Movie;
 import java.util.List;
 
 /**
- * @author arun
+ * @author Tanvir Durlove
  */
 public interface FavoritesInteractor {
     void setFavorite(Movie movie);

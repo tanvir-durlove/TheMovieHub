@@ -5,7 +5,7 @@ import com.arbitrium.moviehub.Movie;
 import java.util.List;
 
 /**
- * @author arun
+ * @author Tanvir Durlove
  */
 class FavoritesInteractorImpl implements FavoritesInteractor {
     private FavoritesStore favoritesStore;

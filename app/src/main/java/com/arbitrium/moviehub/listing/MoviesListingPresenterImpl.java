@@ -14,7 +14,7 @@ import io.reactivex.disposables.Disposable;
 import io.reactivex.schedulers.Schedulers;
 
 /**
- * @author arun
+ * @author Tanvir Durlove
  */
 class MoviesListingPresenterImpl implements MoviesListingPresenter {
     private MoviesListingView view;

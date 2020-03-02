@@ -1,7 +1,7 @@
 package com.arbitrium.moviehub;
 
 /**
- * @author arun
+ * @author Tanvir Durlove
  */
 public class Api {
     private static final String BASE_POSTER_PATH = "https://image.tmdb.org/t/p/w342";

@@ -1,7 +1,7 @@
 package com.arbitrium.moviehub.listing;
 
 /**
- * @author arun
+ * @author Tanvir Durlove
  */
 public interface MoviesListingPresenter {
     void firstPage();

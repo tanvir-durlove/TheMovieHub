@@ -22,7 +22,7 @@ import static org.mockito.Mockito.verify;
 import static org.mockito.Mockito.when;
 
 /**
- * @author arunsasidharan
+ * @author Tanvir Durlove
  */
 @RunWith(MockitoJUnitRunner.class)
 public class MoviesListingPresenterImplTest {

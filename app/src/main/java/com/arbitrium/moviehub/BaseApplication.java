@@ -13,7 +13,7 @@ import com.arbitrium.moviehub.network.NetworkModule;
 import io.realm.Realm;
 
 /**
- * @author arun
+ * @author Tanvir Durlove
  */
 public class BaseApplication extends Application {
     private AppComponent appComponent;

@@ -28,7 +28,7 @@ import butterknife.BindView;
 import butterknife.ButterKnife;
 
 /**
- * @author arun
+ * @author Tanvir Durlove
  */
 public class MoviesListingAdapter extends RecyclerView.Adapter<MoviesListingAdapter.ViewHolder> {
     private List<Movie> movies;

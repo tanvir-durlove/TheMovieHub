@@ -5,7 +5,7 @@ import com.arbitrium.moviehub.Movie;
 import java.util.List;
 
 /**
- * @author arun
+ * @author Tanvir Durlove
  */
 interface MoviesListingView {
     void showMovies(List<Movie> movies);

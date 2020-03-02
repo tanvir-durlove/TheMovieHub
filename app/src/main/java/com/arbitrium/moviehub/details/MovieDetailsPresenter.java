@@ -3,7 +3,7 @@ package com.arbitrium.moviehub.details;
 import com.arbitrium.moviehub.Movie;
 
 /**
- * @author arun
+ * @author Tanvir Durlove
  */
 public interface MovieDetailsPresenter {
     void showDetails(Movie movie);

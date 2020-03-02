@@ -1,7 +1,7 @@
 package com.arbitrium.moviehub;
 
 /**
- * @author arun
+ * @author Tanvir Durlove
  */
 public class Constants {
 

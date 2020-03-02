@@ -1,7 +1,7 @@
 package com.arbitrium.moviehub.listing.sorting;
 
 /**
- * @author arun
+ * @author Tanvir Durlove
  */
 public interface SortingDialogPresenter {
     void setLastSavedOption();

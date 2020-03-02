@@ -12,7 +12,7 @@ import io.realm.Realm;
 import io.realm.RealmResults;
 
 /**
- * @author arun
+ * @author Tanvir Durlove
  */
 @Singleton
 public class FavoritesStore {

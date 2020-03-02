@@ -1,7 +1,7 @@
 package com.arbitrium.moviehub.listing.sorting;
 
 /**
- * @author arun
+ * @author Tanvir Durlove
  */
 class SortingDialogInteractorImpl implements SortingDialogInteractor {
     private SortingOptionStore sortingOptionStore;

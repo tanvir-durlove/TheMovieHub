@@ -11,8 +11,8 @@ import dagger.Provides;
 import io.realm.Realm;
 
 /**
- * @author arunsasidharan
- * @author pulkitkumar
+ * @author Tanvir Durlove
+ *
  */
 @Module
 public class AppModule {

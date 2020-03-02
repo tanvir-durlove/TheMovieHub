@@ -7,7 +7,7 @@ import com.arbitrium.moviehub.Video;
 import java.util.List;
 
 /**
- * @author arun
+ * @author Tanvir Durlove
  */
 interface MovieDetailsView {
     void showDetails(Movie movie);

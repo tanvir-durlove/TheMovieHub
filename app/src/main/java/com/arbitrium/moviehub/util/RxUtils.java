@@ -4,7 +4,7 @@ package com.arbitrium.moviehub.util;
 import io.reactivex.disposables.Disposable;
 
 /**
- * @author arun
+ * @author Tanvir Durlove
  */
 public class RxUtils {
     public static void unsubscribe(Disposable subscription) {

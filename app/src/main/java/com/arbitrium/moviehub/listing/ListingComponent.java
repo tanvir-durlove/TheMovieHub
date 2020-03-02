@@ -6,7 +6,7 @@ import com.arbitrium.moviehub.listing.sorting.SortingModule;
 import dagger.Subcomponent;
 
 /**
- * @author arunsasidharan
+ * @author Tanvir Durlove
  */
 @ListingScope
 @Subcomponent(modules = {ListingModule.class, SortingModule.class})
